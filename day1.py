@@ -215,4 +215,4 @@ for i in range(len(a)):
       if (2020-(a[i]+a[j])) in a:
         print("{} , {} ,{}".format(a[i],a[j],(2020-(a[i]+a[j]))))
         print(a[i]*a[j]*(2020-(a[i]+a[j])))
-#-------------------------Solution for problem 1---------------------#
+#-------------------------Solution for problem 2---------------------#
